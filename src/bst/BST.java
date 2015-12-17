@@ -1,5 +1,5 @@
 
-package binary.search.tree;
+package bst;
 
 /**
 * This is a class that contains a binary search tree and it's methods
